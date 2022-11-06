@@ -7,8 +7,12 @@ In principle, the purposes of ASPs can be divided into four categories: decreasi
 
 Our Project is deployed here https://hack-cbs.vercel.app/
 
+<img src="https://github.com/Bhavya1912/HackCBS/blob/main/photos/image0.png"></img>
+<img src="https://github.com/Bhavya1912/HackCBS/blob/main/photos/image.png"></img>
+<img src="https://github.com/Bhavya1912/HackCBS/blob/main/photos/image2.png"></img>
+<img src="https://github.com/Bhavya1912/HackCBS/blob/main/photos/image3.png"></img>
 
-https://github.com/Bhavya1912/HackCBS/blob/main/photos/image.png
+
 
 ### Built With
 
