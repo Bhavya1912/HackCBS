@@ -5,6 +5,10 @@ Apne Doctor is an Appointment Scheduling Website that enhance the utilization of
 
 In principle, the purposes of ASPs can be divided into four categories: decreasing service costs, increasing patient satisfaction, reducing waiting time, improving fairness, and reducing costs in healthcare [9]. One of the central issues in healthcare is fairness, which is a primary concern when scheduling patients and doctors [10]. Aside from fairness in scheduling, further encouragement is attained through a novel gain framework unique to the division and was not reported previously. Another critical issue on fairness is mending personal scheduling preferences [11]. The appointment scheduling’s main problem is optimizing healthcare resources by improving human resources and medical equipment utilization, leading to the depreciation of the patient waiting times.
 
+Our Project is deployed here <a href="[https://hack-cbs.vercel.app/">here</a>
+
+
+
 
 ### Built With
 
